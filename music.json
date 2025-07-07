@@ -1,0 +1,383 @@
+[
+  {
+    "name": "Pop",
+    "id": "pop",
+    "videos": [
+      {
+        "title": "Baby One More Time",
+        "artist": "Britney Spears",
+        "youtube_id": ""
+      },
+      {
+        "title": "Wannabe",
+        "artist": "Spice Girls",
+        "youtube_id": ""
+      },
+      {
+        "title": "I Want It That Way",
+        "artist": "Backstreet Boys",
+        "youtube_id": ""
+      },
+      {
+        "title": "Genie in a Bottle",
+        "artist": "Christina Aguilera",
+        "youtube_id": ""
+      },
+      {
+        "title": "Bye Bye Bye",
+        "artist": "*NSYNC",
+        "youtube_id": ""
+      }
+    ]
+  },
+  {
+    "name": "Rock",
+    "id": "rock",
+    "videos": [
+      {
+        "title": "Stairway to Heaven",
+        "artist": "Led Zeppelin",
+        "youtube_id": ""
+      },
+      {
+        "title": "Bohemian Rhapsody",
+        "artist": "Queen",
+        "youtube_id": ""
+      },
+      {
+        "title": "Hotel California",
+        "artist": "Eagles",
+        "youtube_id": ""
+      },
+      {
+        "title": "Sweet Child o\u2019 Mine",
+        "artist": "Guns N\u2019 Roses",
+        "youtube_id": ""
+      },
+      {
+        "title": "Free Bird",
+        "artist": "Lynyrd Skynyrd",
+        "youtube_id": ""
+      }
+    ]
+  },
+  {
+    "name": "Hip-Hop/Rap",
+    "id": "hip_hop_rap",
+    "videos": [
+      {
+        "name": "Juicy",
+        "artist": "The Notorious B.I.G.",
+        "youtube_id": ""
+      },
+      {
+        "name": "Lose Yourself",
+        "artist": "Eminem",
+        "youtube_id": ""
+      },
+      {
+        "name": "God's Plan",
+        "artist": "Drake",
+        "youtube_id": ""
+      },
+      {
+        "name": "Gangsta's Paradise",
+        "artist": "Coolio ft. L.V.",
+        "youtube_id": ""
+      },
+      {
+        "name": "The Message",
+        "artist": "Grandmaster Flash & The Furious Five",
+        "youtube_id": ""
+      }
+    ]
+  },
+  {
+    "name": "Electronic/Dance",
+    "id": "electronic_dance",
+    "videos": [
+      {
+        "name": "I Feel Love",
+        "artist": "Donna Summer (prod. Giorgio Moroder)",
+        "youtube_id": ""
+      },
+      {
+        "name": "Blue Monday",
+        "artist": "New Order",
+        "youtube_id": ""
+      },
+      {
+        "name": "One More Time",
+        "artist": "Daft Punk",
+        "youtube_id": ""
+      },
+      {
+        "name": "Around the World",
+        "artist": "Daft Punk",
+        "youtube_id": ""
+      },
+      {
+        "name": "Pump Up the Jam",
+        "artist": "Technotronic",
+        "youtube_id": ""
+      }
+    ]
+  },
+  {
+    "name": "Classical",
+    "id": "classical",
+    "videos": [
+      {
+        "name": "Moonlight Sonata",
+        "artist": "Ludwig\u202fvan\u202fBeethoven",
+        "youtube_id": ""
+      },
+      {
+        "name": "Symphony No. 5",
+        "artist": "Ludwig\u202fvan\u202fBeethoven",
+        "youtube_id": ""
+      },
+      {
+        "name": "Symphony No. 9 (Ode to Joy)",
+        "artist": "Ludwig\u202fvan\u202fBeethoven",
+        "youtube_id": ""
+      },
+      {
+        "name": "F\u00fcr Elise",
+        "artist": "Ludwig\u202fvan\u202fBeethoven",
+        "youtube_id": ""
+      },
+      {
+        "name": "Toccata and Fugue in D minor, BWV\u202f565",
+        "artist": "Johann\u202fSebastian\u202fBach",
+        "youtube_id": ""
+      }
+    ]
+  },
+  {
+    "name": "Jazz",
+    "id": "jazz",
+    "videos": [
+      {
+        "name": "So What",
+        "artist": "Miles Davis",
+        "youtube_id": ""
+      },
+      {
+        "name": "My Favorite Things",
+        "artist": "John Coltrane",
+        "youtube_id": ""
+      },
+      {
+        "name": "Take Five",
+        "artist": "Dave Brubeck Quartet",
+        "youtube_id": ""
+      },
+      {
+        "name": "A Love Supreme",
+        "artist": "John Coltrane",
+        "youtube_id": ""
+      },
+      {
+        "name": "Round Midnight",
+        "artist": "Thelonious Monk",
+        "youtube_id": ""
+      }
+    ]
+  },
+  {
+    "name": "Country",
+    "id": "country",
+    "videos": [
+      {
+        "name": "Ring of Fire",
+        "artist": "Johnny Cash",
+        "youtube_id": ""
+      },
+      {
+        "name": "Jolene",
+        "artist": "Dolly Parton",
+        "youtube_id": ""
+      },
+      {
+        "name": "On the Road Again",
+        "artist": "Willie Nelson",
+        "youtube_id": ""
+      },
+      {
+        "name": "I Will Always Love You",
+        "artist": "Dolly Parton",
+        "youtube_id": ""
+      },
+      {
+        "name": "Crazy",
+        "artist": "Patsy Cline",
+        "youtube_id": ""
+      }
+    ]
+  },
+  {
+    "name": "R&B/Soul",
+    "id": "rnb_soul",
+    "videos": [
+      {
+        "name": "I Say a Little Prayer",
+        "artist": "Aretha Franklin",
+        "youtube_id": ""
+      },
+      {
+        "name": "What's Going On",
+        "artist": "Marvin Gaye",
+        "youtube_id": ""
+      },
+      {
+        "name": "Respect",
+        "artist": "Aretha Franklin",
+        "youtube_id": ""
+      },
+      {
+        "name": "Ain\u2019t No Sunshine",
+        "artist": "Bill Withers",
+        "youtube_id": ""
+      },
+      {
+        "name": "Sexual Healing",
+        "artist": "Marvin Gaye",
+        "youtube_id": ""
+      }
+    ]
+  },
+  {
+    "name": "Blues",
+    "id": "blues",
+    "videos": [
+      {
+        "name": "The Thrill Is Gone",
+        "artist": "B.B. King",
+        "youtube_id": ""
+      },
+      {
+        "name": "Me and the Devil Blues",
+        "artist": "Robert Johnson",
+        "youtube_id": ""
+      },
+      {
+        "name": "Boogie Chillen",
+        "artist": "John Lee Hooker",
+        "youtube_id": ""
+      },
+      {
+        "name": "My Babe",
+        "artist": "Little Walter",
+        "youtube_id": ""
+      },
+      {
+        "name": "Smokestack Lightning",
+        "artist": "Howlin' Wolf",
+        "youtube_id": ""
+      }
+    ]
+  },
+  {
+    "name": "Folk",
+    "id": "folk",
+    "videos": [
+      {
+        "name": "This Land Is Your Land",
+        "artist": "Woody Guthrie",
+        "youtube_id": ""
+      },
+      {
+        "name": "Blowin\u2019 in the Wind",
+        "artist": "Bob Dylan",
+        "youtube_id": ""
+      },
+      {
+        "name": "The Times They Are A-Changin\u2019",
+        "artist": "Bob Dylan",
+        "youtube_id": ""
+      },
+      {
+        "name": "Where Have All the Flowers Gone?",
+        "artist": "Pete Seeger",
+        "youtube_id": ""
+      },
+      {
+        "name": "If I Had a Hammer",
+        "artist": "Pete Seeger",
+        "youtube_id": ""
+      }
+    ]
+  },
+  {
+    "name": "Reggae",
+    "id": "reggae",
+    "videos": [
+      {
+        "name": "No Woman, No Cry",
+        "artist": "Bob Marley & The Wailers",
+        "youtube_id": ""
+      },
+      {
+        "name": "Redemption Song",
+        "artist": "Bob Marley & The Wailers",
+        "youtube_id": ""
+      },
+      {
+        "name": "One Love/People Get Ready",
+        "artist": "Bob Marley & The Wailers",
+        "youtube_id": ""
+      },
+      {
+        "name": "Is This Love",
+        "artist": "Bob Marley & The Wailers",
+        "youtube_id": ""
+      },
+      {
+        "name": "Three Little Birds",
+        "artist": "Bob Marley & The Wailers",
+        "youtube_id": ""
+      }
+    ]
+  },
+  {
+    "name": "Metal",
+    "id": "metal",
+    "videos": []
+  },
+  {
+    "name": "World Music",
+    "id": "world_music",
+    "videos": []
+  },
+  {
+    "name": "Punk",
+    "id": "punk",
+    "videos": []
+  },
+  {
+    "name": "Indie/Alternative",
+    "id": "indie_alternative",
+    "videos": []
+  },
+  {
+    "name": "Gospel/Christian",
+    "id": "gospel_christian",
+    "videos": []
+  },
+  {
+    "name": "Ambient/Chill",
+    "id": "ambient_chill",
+    "videos": []
+  },
+  {
+    "name": "Experimental/Avant-Garde",
+    "id": "experimental_avant_garde",
+    "videos": []
+  },
+  {
+    "name": "Instrumentals",
+    "id": "instrumentals",
+    "videos": []
+  }
+]
