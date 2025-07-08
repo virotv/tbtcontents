@@ -180,18 +180,6 @@
     "id": "classical",
     "videos": [
       {
-        "ytVideoId": "ho9rZjlsyYY",
-        "views": 58571859,
-        "ytVideoUrl": "https://www.youtube.com/watch?v=ho9rZjlsyYY",
-        "thumbnail": "https://i.ytimg.com/vi/ho9rZjlsyYY/hqdefault.jpg",
-        "published_at": "2010-10-05T23:30:41Z",
-        "duration": 561,
-        "description": "Though the composition is public domain, the performance belongs to the record label that recorded the following performer (see YouTube's attributes in the full description):\nHannes Kästner\nAlbum: \nBach, J.S.: Organ Music - Preludes and Fugues - Toccata and Fugue in D Minor - Chorales Preludes. \n\nThis album was released in 1988 and it's also available on ITunes : \nhttps://itunes.apple.com/ca/album/bach-j-s-organ-music-preludes-fugues-toccata-fugue/id389168578",
-        "bunnyVideoId": "ho9rZjlsyYY",
-        "bunnyVideoUrl": "https://virotv.b-cdn.net/tbtmusic/ho9rZjlsyYY.mp4",
-        "artist": "Johann Sebastian Bach"
-      },
-      {
         "ytVideoId": "n3EiRynr1Us",
         "views": 1595752,
         "ytVideoUrl": "https://www.youtube.com/watch?v=n3EiRynr1Us",
@@ -202,6 +190,24 @@
         "bunnyVideoId": "n3EiRynr1Us",
         "bunnyVideoUrl": "https://virotv.b-cdn.net/tbtmusic/n3EiRynr1Us.mp4",
         "artist": "Ludwig van Beethoven"
+      }
+    ]
+  },
+  {
+    "name": "Jazz",
+    "id": "jazz",
+    "videos": [
+      {
+        "ytVideoId": "ylXk1LBvIqU",
+        "views": 14460242,
+        "ytVideoUrl": "https://www.youtube.com/watch?v=ylXk1LBvIqU",
+        "thumbnail": "https://i.ytimg.com/vi/ylXk1LBvIqU/hqdefault.jpg",
+        "published_at": "2013-05-14T07:00:13Z",
+        "duration": 564,
+        "description": "”So What” by Miles Davis\nListen to Miles Davis: https://MilesDavis.lnk.to/listenYD \n\nWatch more Miles Davis videos: https://MilesDavis.lnk.to/listenYD/youtube\n\nSubscribe to the official Miles Davis YouTube channel: https://MilesDavis.lnk.to/subscribeYD\n\nFollow Miles Davis:\nFacebook: https://MilesDavis.lnk.to/followFI\nInstagram: https://MilesDavis.lnk.to/followII\nTwitter: https://MilesDavis.lnk.to/followTI\nWebsite: https://MilesDavis.lnk.to/followWI\nSpotify: https://MilesDavis.lnk.to/followSI\n\n#SoWhat #MilesDavis #Jazz",
+        "bunnyVideoId": "ylXk1LBvIqU",
+        "bunnyVideoUrl": "https://virotv.b-cdn.net/tbtmusic/ylXk1LBvIqU.mp4",
+        "artist": "Miles Davis"
       }
     ]
   }
