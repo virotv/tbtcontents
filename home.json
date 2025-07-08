@@ -198,6 +198,18 @@
     "id": "jazz",
     "videos": [
       {
+        "ytVideoId": "vmDDOFXSgAs",
+        "views": 92004684,
+        "ytVideoUrl": "https://www.youtube.com/watch?v=vmDDOFXSgAs",
+        "thumbnail": "https://i.ytimg.com/vi/vmDDOFXSgAs/hqdefault.jpg",
+        "published_at": "2008-06-03T04:20:59Z",
+        "duration": 330,
+        "description": "Dave Brubeck - Take Five",
+        "bunnyVideoId": "vmDDOFXSgAs",
+        "bunnyVideoUrl": "https://virotv.b-cdn.net/tbtmusic/vmDDOFXSgAs.mp4",
+        "artist": "Dave Brubeck Quartet"
+      },
+      {
         "ytVideoId": "ylXk1LBvIqU",
         "views": 14460242,
         "ytVideoUrl": "https://www.youtube.com/watch?v=ylXk1LBvIqU",
