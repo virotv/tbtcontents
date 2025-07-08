@@ -174,5 +174,23 @@
         "artist": "Donna Summer (prod. Giorgio Moroder)"
       }
     ]
+  },
+  {
+    "name": "Classical",
+    "id": "classical",
+    "videos": [
+      {
+        "ytVideoId": "4Tr0otuiQuU",
+        "views": 220477632,
+        "ytVideoUrl": "https://www.youtube.com/watch?v=4Tr0otuiQuU",
+        "thumbnail": "https://i.ytimg.com/vi/4Tr0otuiQuU/hqdefault.jpg",
+        "published_at": "2010-12-15T15:44:53Z",
+        "duration": 900,
+        "description": "Beethoven - Moonlight Sonata (FULL) -  Piano Sonata No. 14\nCopyright Andrea Romano\n\nThe Piano Sonata No. 14 in C♯ minor \"Quasi una fantasia\", op. 27, No. 2 has three movements:\n\n0:00 1 mvt: Adagio sostenuto\n6:00 2 mvt: Allegretto\n8:05 3 mvt: Presto agitato\n\nInstagram: https://www.instagram.com/andrearomanoandrea\nTwitter: https://twitter.com/YtAndrearomano6\nhttp://www.facebook.com/9Beethoven\n\n\n#Beethoven #Piano #ClassicalMusic",
+        "bunnyVideoId": "4Tr0otuiQuU",
+        "bunnyVideoUrl": "https://virotv.b-cdn.net/tbtmusic/4Tr0otuiQuU.mp4",
+        "artist": "Ludwig van Beethoven"
+      }
+    ]
   }
 ]
