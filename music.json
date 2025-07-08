@@ -66,27 +66,27 @@
     "id": "hip_hop_rap",
     "videos": [
       {
-        "name": "Juicy",
+        "title": "Juicy",
         "artist": "The Notorious B.I.G.",
         "yId": "_JZom_gVfuw"
       },
       {
-        "name": "Lose Yourself",
+        "title": "Lose Yourself",
         "artist": "Eminem",
         "yId": "xFYQQPAOz7Y"
       },
       {
-        "name": "God's Plan",
+        "title": "God's Plan",
         "artist": "Drake",
         "yId": "xpVfcZ0ZcFM"
       },
       {
-        "name": "Gangsta's Paradise",
+        "title": "Gangsta's Paradise",
         "artist": "Coolio ft. L.V.",
         "yId": "fPO76Jlnz6c"
       },
       {
-        "name": "The Message",
+        "title": "The Message",
         "artist": "Grandmaster Flash & The Furious Five",
         "yId": "PobrSpMwKk4"
       }
@@ -97,27 +97,27 @@
     "id": "electronic_dance",
     "videos": [
       {
-        "name": "I Feel Love",
+        "title": "I Feel Love",
         "artist": "Donna Summer (prod. Giorgio Moroder)",
         "yId": "yEbaeLv-aOo"
       },
       {
-        "name": "Blue Monday",
+        "title": "Blue Monday",
         "artist": "New Order",
         "yId": "FYH8DsU2WCk"
       },
       {
-        "name": "One More Time",
+        "title": "One More Time",
         "artist": "Daft Punk",
         "yId": "FGBhQbmPwH8"
       },
       {
-        "name": "Around the World",
+        "title": "Around the World",
         "artist": "Daft Punk",
         "yId": "K0HSD_i2DvA"
       },
       {
-        "name": "Pump Up the Jam",
+        "title": "Pump Up the Jam",
         "artist": "Technotronic",
         "yId": "9EcjWd-O4jI"
       }
@@ -128,27 +128,27 @@
     "id": "classical",
     "videos": [
       {
-        "name": "Moonlight Sonata",
+        "title": "Moonlight Sonata",
         "artist": "Ludwig\u202fvan\u202fBeethoven",
         "yId": "4Tr0otuiQuU"
       },
       {
-        "name": "Symphony No. 5",
+        "title": "Symphony No. 5",
         "artist": "Ludwig\u202fvan\u202fBeethoven",
         "yId": "n3EiRynr1Us"
       },
       {
-        "name": "Symphony No. 9 (Ode to Joy)",
+        "title": "Symphony No. 9 (Ode to Joy)",
         "artist": "Ludwig\u202fvan\u202fBeethoven",
         "yId": "uooe16ILaPo"
       },
       {
-        "name": "F\u00fcr Elise",
+        "title": "F\u00fcr Elise",
         "artist": "Ludwig\u202fvan\u202fBeethoven",
         "yId": "e4d0LOuP4Uw"
       },
       {
-        "name": "Toccata and Fugue in D minor, BWV\u202f565",
+        "title": "Toccata and Fugue in D minor, BWV\u202f565",
         "artist": "Johann\u202fSebastian\u202fBach",
         "yId": "ho9rZjlsyYY"
       }
@@ -159,34 +159,34 @@
     "id": "jazz",
     "videos": [
       {
-        "name": "So What",
+        "title": "So What",
         "artist": "Miles Davis",
         "yId": "ylXk1LBvIqU"
       },
     
       {
-        "name": "Take Five",
+        "title": "Take Five",
         "artist": "Dave Brubeck Quartet",
         "yId": "vmDDOFXSgAs"
       },
       {
-        "name": "Round Midnight",
+        "title": "Round Midnight",
         "artist": "Thelonious Monk",
         "yId": "-yg7aZpIXRI"
       },
       
       {
-        "name": "A Love Supreme",
+        "title": "A Love Supreme",
         "artist": "John Coltrane",
         "yId": "vMCHDC2Lurk"
       },
       {
-        "name": "The Sky is Crying",
+        "title": "The Sky is Crying",
         "artist": "Gary B.B. Coleman",
         "yId": "71Gt46aX9Z4"
       },
       {
-        "name": "What a Wonderful World",
+        "title": "What a Wonderful World",
         "artist": "Louis Armstrong",
         "yId": "CaCSuzR4DwM"
       }
@@ -197,27 +197,27 @@
     "id": "country",
     "videos": [
       {
-        "name": "Ring of Fire",
+        "title": "Ring of Fire",
         "artist": "Johnny Cash",
         "yId": "1WaV2x8GXj0"
       },
       {
-        "name": "Jolene",
+        "title": "Jolene",
         "artist": "Dolly Parton",
         "yId": "irnTlxdJghM"
       },
       {
-        "name": "On the Road Again",
+        "title": "On the Road Again",
         "artist": "Willie Nelson",
         "yId": "dBN86y30Ufc"
       },
       {
-        "name": "I Will Always Love You",
+        "title": "I Will Always Love You",
         "artist": "Dolly Parton",
         "yId": "lKsQR72HY0s"
       },
       {
-        "name": "Stand by Your Man",
+        "title": "Stand by Your Man",
         "artist": "Tammy Wynette",
         "yId": "AM-b8P1yj9w"
       }
@@ -228,27 +228,27 @@
     "id": "rnb_soul",
     "videos": [
       {
-        "name": "I Say a Little Prayer",
+        "title": "I Say a Little Prayer",
         "artist": "Aretha Franklin",
         "yId": ""
       },
       {
-        "name": "What's Going On",
+        "title": "What's Going On",
         "artist": "Marvin Gaye",
         "yId": ""
       },
       {
-        "name": "Respect",
+        "title": "Respect",
         "artist": "Aretha Franklin",
         "yId": ""
       },
       {
-        "name": "Ain\u2019t No Sunshine",
+        "title": "Ain\u2019t No Sunshine",
         "artist": "Bill Withers",
         "yId": ""
       },
       {
-        "name": "Sexual Healing",
+        "title": "Sexual Healing",
         "artist": "Marvin Gaye",
         "yId": ""
       }
@@ -259,27 +259,27 @@
     "id": "blues",
     "videos": [
       {
-        "name": "The Thrill Is Gone",
+        "title": "The Thrill Is Gone",
         "artist": "B.B. King",
         "yId": ""
       },
       {
-        "name": "Me and the Devil Blues",
+        "title": "Me and the Devil Blues",
         "artist": "Robert Johnson",
         "yId": ""
       },
       {
-        "name": "Boogie Chillen",
+        "title": "Boogie Chillen",
         "artist": "John Lee Hooker",
         "yId": ""
       },
       {
-        "name": "My Babe",
+        "title": "My Babe",
         "artist": "Little Walter",
         "yId": ""
       },
       {
-        "name": "Smokestack Lightning",
+        "title": "Smokestack Lightning",
         "artist": "Howlin' Wolf",
         "yId": ""
       }
@@ -290,27 +290,27 @@
     "id": "folk",
     "videos": [
       {
-        "name": "This Land Is Your Land",
+        "title": "This Land Is Your Land",
         "artist": "Woody Guthrie",
         "yId": ""
       },
       {
-        "name": "Blowin\u2019 in the Wind",
+        "title": "Blowin\u2019 in the Wind",
         "artist": "Bob Dylan",
         "yId": ""
       },
       {
-        "name": "The Times They Are A-Changin\u2019",
+        "title": "The Times They Are A-Changin\u2019",
         "artist": "Bob Dylan",
         "yId": ""
       },
       {
-        "name": "Where Have All the Flowers Gone?",
+        "title": "Where Have All the Flowers Gone?",
         "artist": "Pete Seeger",
         "yId": ""
       },
       {
-        "name": "If I Had a Hammer",
+        "title": "If I Had a Hammer",
         "artist": "Pete Seeger",
         "yId": ""
       }
@@ -321,27 +321,27 @@
     "id": "reggae",
     "videos": [
       {
-        "name": "No Woman, No Cry",
+        "title": "No Woman, No Cry",
         "artist": "Bob Marley & The Wailers",
         "yId": ""
       },
       {
-        "name": "Redemption Song",
+        "title": "Redemption Song",
         "artist": "Bob Marley & The Wailers",
         "yId": ""
       },
       {
-        "name": "One Love/People Get Ready",
+        "title": "One Love/People Get Ready",
         "artist": "Bob Marley & The Wailers",
         "yId": ""
       },
       {
-        "name": "Is This Love",
+        "title": "Is This Love",
         "artist": "Bob Marley & The Wailers",
         "yId": ""
       },
       {
-        "name": "Three Little Birds",
+        "title": "Three Little Birds",
         "artist": "Bob Marley & The Wailers",
         "yId": ""
       }
