@@ -210,19 +210,6 @@
     "id": "classical",
     "videos": [
       {
-        "ytVideoId": "ho9rZjlsyYY",
-        "title": "Toccata and Fugue in D minor, BWV 565",
-        "views": 58585690,
-        "ytVideoUrl": "https://www.youtube.com/watch?v=ho9rZjlsyYY",
-        "thumbnail": "https://i.ytimg.com/vi/ho9rZjlsyYY/hqdefault.jpg",
-        "published_at": "2010-10-05T23:30:41Z",
-        "duration": 561,
-        "description": "Though the composition is public domain, the performance belongs to the record label that recorded the following performer (see YouTube's attributes in the full description):\nHannes Kästner\nAlbum: \nBach, J.S.: Organ Music - Preludes and Fugues - Toccata and Fugue in D Minor - Chorales Preludes. \n\nThis album was released in 1988 and it's also available on ITunes : \nhttps://itunes.apple.com/ca/album/bach-j-s-organ-music-preludes-fugues-toccata-fugue/id389168578",
-        "bunnyVideoId": "ho9rZjlsyYY",
-        "bunnyVideoUrl": "https://virotv.b-cdn.net/tbtmusic/ho9rZjlsyYY.mp4",
-        "artist": "Johann Sebastian Bach"
-      },
-      {
         "ytVideoId": "uooe16ILaPo",
         "title": "Symphony No. 9 (Ode to Joy)",
         "views": 637451,
@@ -254,6 +241,19 @@
     "name": "Jazz",
     "id": "jazz",
     "videos": [
+      {
+        "ytVideoId": "vmDDOFXSgAs",
+        "title": "Take Five",
+        "views": 92020061,
+        "ytVideoUrl": "https://www.youtube.com/watch?v=vmDDOFXSgAs",
+        "thumbnail": "https://i.ytimg.com/vi/vmDDOFXSgAs/hqdefault.jpg",
+        "published_at": "2008-06-03T04:20:59Z",
+        "duration": 330,
+        "description": "Dave Brubeck - Take Five",
+        "bunnyVideoId": "vmDDOFXSgAs",
+        "bunnyVideoUrl": "https://virotv.b-cdn.net/tbtmusic/vmDDOFXSgAs.mp4",
+        "artist": "Dave Brubeck Quartet"
+      },
       {
         "ytVideoId": "71Gt46aX9Z4",
         "views": 242437050,
