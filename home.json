@@ -262,6 +262,19 @@
     "id": "classical",
     "videos": [
       {
+        "ytVideoId": "ho9rZjlsyYY",
+        "title": "Toccata and Fugue in D minor, BWV 565",
+        "views": 58587741,
+        "ytVideoUrl": "https://www.youtube.com/watch?v=ho9rZjlsyYY",
+        "thumbnail": "https://i.ytimg.com/vi/ho9rZjlsyYY/hqdefault.jpg",
+        "published_at": "2010-10-05T23:30:41Z",
+        "duration": 561,
+        "description": "Though the composition is public domain, the performance belongs to the record label that recorded the following performer (see YouTube's attributes in the full description):\nHannes Kästner\nAlbum: \nBach, J.S.: Organ Music - Preludes and Fugues - Toccata and Fugue in D Minor - Chorales Preludes. \n\nThis album was released in 1988 and it's also available on ITunes : \nhttps://itunes.apple.com/ca/album/bach-j-s-organ-music-preludes-fugues-toccata-fugue/id389168578",
+        "bunnyVideoId": "ho9rZjlsyYY",
+        "bunnyVideoUrl": "https://virotv.b-cdn.net/tbtmusic/ho9rZjlsyYY.mp4",
+        "artist": "Johann Sebastian Bach"
+      },
+      {
         "ytVideoId": "e4d0LOuP4Uw",
         "title": "Für Elise",
         "views": 14306453,
