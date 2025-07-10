@@ -184,6 +184,19 @@
     "id": "classical",
     "videos": [
       {
+        "ytVideoId": "n3EiRynr1Us",
+        "title": "Symphony No. 5",
+        "views": 1609379,
+        "ytVideoUrl": "https://www.youtube.com/watch?v=n3EiRynr1Us",
+        "thumbnail": "https://i.ytimg.com/vi/n3EiRynr1Us/hqdefault.jpg",
+        "published_at": "2021-05-07T21:00:27Z",
+        "duration": 404,
+        "description": "Boston Philharmonic Orchestra\nBenjamin Zander, conductor\n\nBeethoven: Symphony No. 5\nI. Allegro con brio\n\nRecorded live in concert at New England Conservatory's Jordan Hall in February, 2019",
+        "bunnyVideoId": "n3EiRynr1Us",
+        "bunnyVideoUrl": "https://virotv.b-cdn.net/tbtmusic/n3EiRynr1Us.mp4",
+        "artist": "Ludwig van Beethoven"
+      },
+      {
         "ytVideoId": "4Tr0otuiQuU",
         "title": "Moonlight Sonata",
         "views": 220536820,
