@@ -49,19 +49,6 @@
     "id": "rock",
     "videos": [
       {
-        "ytVideoId": "HQmmM_qwG4k",
-        "title": "Whole Lotta Love",
-        "views": 239907773,
-        "ytVideoUrl": "https://www.youtube.com/watch?v=HQmmM_qwG4k",
-        "thumbnail": "https://i.ytimg.com/vi/HQmmM_qwG4k/hqdefault.jpg",
-        "published_at": "2008-04-20T22:17:15Z",
-        "duration": 289,
-        "description": "Official music video for the Led Zeppelin classic 'Whole Lotta Love' \n\n► Listen to Mothership https://lnk.to/StreamMothership \n\n♪ Watch all episodes of Led Zeppelin History https://lnk.to/LedZeppelinHistoryID\n\n🕭 Subscribe to the Led Zeppelin channel https://lnk.to/YTLedZeppelinSubID\n\nOfficial Led Zeppelin Playlists:\n\n☑ Led Zeppelin - Essentials https://lnk.to/YTLedZeppelinEssentialsID\n📽 The Led Zeppelin Rare Film Series https://lnk.to/LedZeppelinRareFilmID\n🎚 Led Zeppelin - Alternative Mixes & Deep Cuts https://lnk.to/LedZeppelinAltMixID\n\nStay Connected with Led Zeppelin:\n\n♪ Website http://www.ledzeppelin.com \n🎛 Facebook  http://www.facebook.com/ledzeppelin\n🎙 Twitter http://www.twitter.com/ledzeppelin \n🎞 Instagram https://www.instagram.com/ledzeppelin \n\n---------------------------------------------------------------------------------------------------------------------\n\nThe Led Zeppelin channel is the band’s official YouTube home, featuring a catalog of official live performances, official music videos, Led Zeppelin History, archival footage, and Zeppelin-approved playlists. \n\n🕭 Subscribe to join the Led Zeppelin YouTube community and check back for new uploads, product announcements, and updates from the band\n\nLed Zeppelin formed in 1968 and went on to become one of the most influential, innovative, and successful groups in modern music, having sold more than 300 million albums worldwide. The band rose from the ashes of The Yardbirds, when Jimmy Page brought in John Bonham, John Paul Jones, and Robert Plant to tour as The New Yardbirds. In 1969, Led Zeppelin released its self-titled debut which was produced by Page, as were all the subsequent albums. It marked the beginning of a 12-year reign, during which the group was widely considered to be the biggest and most innovative rock band in the world.",
-        "bunnyVideoId": "HQmmM_qwG4k",
-        "bunnyVideoUrl": "https://virotv.b-cdn.net/tbtmusic/HQmmM_qwG4k.mp4",
-        "artist": "Led Zeppelin"
-      },
-      {
         "ytVideoId": "rrim6_9VSeM",
         "title": "Back in Black",
         "views": 4505891,
@@ -99,6 +86,25 @@
         "bunnyVideoId": "fJ9rUzIMcZQ",
         "bunnyVideoUrl": "https://virotv.b-cdn.net/tbtmusic/fJ9rUzIMcZQ.mp4",
         "artist": "Queen"
+      }
+    ]
+  },
+  {
+    "name": "Hip-Hop/Rap",
+    "id": "hip_hop_rap",
+    "videos": [
+      {
+        "ytVideoId": "_JZom_gVfuw",
+        "title": "Juicy",
+        "views": 677209400,
+        "ytVideoUrl": "https://www.youtube.com/watch?v=_JZom_gVfuw",
+        "thumbnail": "https://i.ytimg.com/vi/_JZom_gVfuw/hqdefault.jpg",
+        "published_at": "2011-09-06T20:35:35Z",
+        "duration": 253,
+        "description": "Official Music Video Remastered in 4K for The Notorious B.I.G. - \"Juicy\"\nDirector: Sean \"Puffy\" Combs\nSubscribe to the channel https://Rhino.lnk.to/YTBiggieSubID\n\nStream or download The Notorious B.I.G. Essentials https://big.lnk.to/BIG \n\n\nFrom 'Ready To Die' (1994) Listen to the album here https://Rhino.lnk.to/readytodiestrm\n\nFollow The Notorious B.I.G.\n👑 Facebook https://www.facebook.com/NotoriousBIG/\n👑 Instagram https://www.instagram.com/thenotoriousbig/\n\nMore Videos and Playlists\n\nJuicy ▶️ https://Rhino.lnk.to/YTJuicyID\nBig Poppa ▶️ https://Rhino.lnk.to/YTBigPoppaID\nHypnotize ▶️ https://Rhino.lnk.to/YTHypnotizeID\nOfficial Videography ▶️ https://Rhino.lnk.to/YTBiggieVideographyID\n\nStream more B.I.G. here https://Rhino.lnk.to/thenotoriousbigstrm\n\nThe Notorious B.I.G. channel is the official YouTube home of The Notorious B.I.G. featuring his catalog of official music videos. The Notorious B.I.G. is widely recognized as one of the world’s most influential rappers and has sold more than 17 million albums in the U.S. alone. Before his murder in 1997, Christopher Wallace recorded two classic albums as The Notorious B.I.G. His debut Ready to Die arrived in 1994 and helped revitalize the East Coast rap scene with massive hits like “Big Poppa” and “Juicy.” Life After Death was released in March 1997 just weeks after he was shot and killed in Los Angeles. The record topped the U.S. album charts and featured the hits “Hypnotize” and “Mo Money Mo Problems.” It remains one of the few hip-hop albums to ever achieve Diamond certification from the RIAA.",
+        "bunnyVideoId": "_JZom_gVfuw",
+        "bunnyVideoUrl": "https://virotv.b-cdn.net/tbtmusic/_JZom_gVfuw.mp4",
+        "artist": "The Notorious B.I.G."
       }
     ]
   }
