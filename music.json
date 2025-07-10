@@ -4,6 +4,11 @@
     "id": "pop",
     "videos": [
       {
+        "title": "I Want It That Way",
+        "artist": "Backstreet Boys",
+        "yId": "RDDdIiDCRfovU"
+      },
+      {
         "title": "Baby One More Time",
         "artist": "Britney Spears",
         "yId": "C-u5WLJ9Yk4"
@@ -12,11 +17,6 @@
         "title": "Wannabe",
         "artist": "Spice Girls",
         "yId": "gJLIiF15wjQ"
-      },
-      {
-        "title": "I Want It That Way",
-        "artist": "Backstreet Boys",
-        "yId": "RDDdIiDCRfovU"
       },
       {
         "title": "Genie in a Bottle",
