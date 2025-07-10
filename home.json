@@ -204,19 +204,6 @@
     "id": "electronic_dance",
     "videos": [
       {
-        "ytVideoId": "K0HSD_i2DvA",
-        "title": "Around the World",
-        "views": 100028206,
-        "ytVideoUrl": "https://www.youtube.com/watch?v=K0HSD_i2DvA",
-        "thumbnail": "https://i.ytimg.com/vi/K0HSD_i2DvA/hqdefault.jpg",
-        "published_at": "2021-10-01T13:15:18Z",
-        "duration": 242,
-        "description": "Listen, order & watch now: https://bio.to/daftpunk\nWatch more videos of Daft Punk: https://daftpunk.lnk.to/essentialsvideos\nHomework 25th Anniversary Edition: https://daftpunk.lnk.to/homework25th\nListen to Daft Punk’s Essentials here: https://daftpunk.lnk.to/essentials\n\nFollow Daft Punk:\nOfficial website: https://www.daftpunk.com/\nSnapchat: https://daftpunk.lnk.to/snapchat\nInstagram: https://daftpunk.lnk.to/instagram\nTiktok: https://daftpunk.lnk.to/tiktok\nTwitch: https://daftpunk.lnk.to/twitch\nTwitter: https://daftpunk.lnk.to/twitter\nYouTube: https://daftpunk.lnk.to/youtube\nFacebook: https://daftpunk.lnk.to/facebook\nSpotify: https://daftpunk.lnk.to/spotify\nApple Music: https://daftpunk.lnk.to/applemusic\nAmazon Music: https://daftpunk.lnk.to/amazonmusic\nDiscord: https://daftpunk.lnk.to/discord \n\nSong written and composed by Thomas Bangalter and Guy-Manuel de Homem-Christo\nVideo directed by Michel Gondry\n\n℗ 1997 Daft Life\n\n#DaftPunk #Homework #AroundTheWorld",
-        "bunnyVideoId": "K0HSD_i2DvA",
-        "bunnyVideoUrl": "https://virotv.b-cdn.net/tbtmusic/K0HSD_i2DvA.mp4",
-        "artist": "Daft Punk"
-      },
-      {
         "ytVideoId": "FYH8DsU2WCk",
         "title": "Blue Monday",
         "views": 189281701,
@@ -274,6 +261,19 @@
     "name": "Classical",
     "id": "classical",
     "videos": [
+      {
+        "ytVideoId": "4Tr0otuiQuU",
+        "title": "Moonlight Sonata",
+        "views": 220522162,
+        "ytVideoUrl": "https://www.youtube.com/watch?v=4Tr0otuiQuU",
+        "thumbnail": "https://i.ytimg.com/vi/4Tr0otuiQuU/hqdefault.jpg",
+        "published_at": "2010-12-15T15:44:53Z",
+        "duration": 900,
+        "description": "Beethoven - Moonlight Sonata (FULL) -  Piano Sonata No. 14\nCopyright Andrea Romano\n\nThe Piano Sonata No. 14 in C♯ minor \"Quasi una fantasia\", op. 27, No. 2 has three movements:\n\n0:00 1 mvt: Adagio sostenuto\n6:00 2 mvt: Allegretto\n8:05 3 mvt: Presto agitato\n\nInstagram: https://www.instagram.com/andrearomanoandrea\nTwitter: https://twitter.com/YtAndrearomano6\nhttp://www.facebook.com/9Beethoven\n\n\n#Beethoven #Piano #ClassicalMusic",
+        "bunnyVideoId": "4Tr0otuiQuU",
+        "bunnyVideoUrl": "https://virotv.b-cdn.net/tbtmusic/4Tr0otuiQuU.mp4",
+        "artist": "Ludwig van Beethoven"
+      },
       {
         "ytVideoId": "uooe16ILaPo",
         "title": "Symphony No. 9 (Ode to Joy)",
