@@ -139,6 +139,19 @@
     "id": "electronic_dance",
     "videos": [
       {
+        "ytVideoId": "FYH8DsU2WCk",
+        "title": "Blue Monday",
+        "views": 189287294,
+        "ytVideoUrl": "https://www.youtube.com/watch?v=FYH8DsU2WCk",
+        "thumbnail": "https://i.ytimg.com/vi/FYH8DsU2WCk/hqdefault.jpg",
+        "published_at": "2010-02-01T22:17:58Z",
+        "duration": 447,
+        "description": "Original song from 1983",
+        "bunnyVideoId": "FYH8DsU2WCk",
+        "bunnyVideoUrl": "https://virotv.b-cdn.net/tbtmusic/FYH8DsU2WCk.mp4",
+        "artist": "New Order"
+      },
+      {
         "ytVideoId": "yEbaeLv-aOo",
         "title": "I Feel Love",
         "views": 8322250,
