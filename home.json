@@ -230,6 +230,19 @@
     "id": "electronic_dance",
     "videos": [
       {
+        "ytVideoId": "GjYJ_Vagi7o",
+        "title": "Blue Monday",
+        "views": 227205,
+        "ytVideoUrl": "https://www.youtube.com/watch?v=GjYJ_Vagi7o",
+        "thumbnail": "https://i.ytimg.com/vi/GjYJ_Vagi7o/hqdefault.jpg",
+        "published_at": "2017-09-05T12:35:50Z",
+        "duration": 279,
+        "description": "I do not own the Music featured in this Video.\n\nAll Rights to Factory Records & New Order.",
+        "bunnyVideoId": "GjYJ_Vagi7o",
+        "bunnyVideoUrl": "https://virotv.b-cdn.net/tbtmusic/GjYJ_Vagi7o.mp4",
+        "artist": "New Order"
+      },
+      {
         "ytVideoId": "GNRPUMQiJdA",
         "title": "I Feel Love",
         "views": 1050,
