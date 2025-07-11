@@ -139,19 +139,6 @@
     "id": "electronic_dance",
     "videos": [
       {
-        "ytVideoId": "9EcjWd-O4jI",
-        "title": "Pump Up the Jam",
-        "views": 376027859,
-        "ytVideoUrl": "https://www.youtube.com/watch?v=9EcjWd-O4jI",
-        "thumbnail": "https://i.ytimg.com/vi/9EcjWd-O4jI/hqdefault.jpg",
-        "published_at": "2010-06-21T20:23:31Z",
-        "duration": 222,
-        "description": "REMASTERED IN HD!\nMusic video by Technotronic performing Pump Up The Jam. (C) 1990 ARS Entertainment Belgium (A Division Of Universal Music Belgium)\n\n#Technotronic #PumpUpTheJam ##Remastered",
-        "bunnyVideoId": "9EcjWd-O4jI",
-        "bunnyVideoUrl": "https://virotv.b-cdn.net/tbtmusic/9EcjWd-O4jI.mp4",
-        "artist": "Technotronic"
-      },
-      {
         "ytVideoId": "K0HSD_i2DvA",
         "title": "Around the World",
         "views": 100079804,
@@ -163,19 +150,6 @@
         "bunnyVideoId": "K0HSD_i2DvA",
         "bunnyVideoUrl": "https://virotv.b-cdn.net/tbtmusic/K0HSD_i2DvA.mp4",
         "artist": "Daft Punk"
-      },
-      {
-        "ytVideoId": "yEbaeLv-aOo",
-        "title": "I Feel Love",
-        "views": 8322250,
-        "ytVideoUrl": "https://www.youtube.com/watch?v=yEbaeLv-aOo",
-        "thumbnail": "https://i.ytimg.com/vi/yEbaeLv-aOo/hqdefault.jpg",
-        "published_at": "2023-06-30T14:00:09Z",
-        "duration": 239,
-        "description": "Official Animated Music Video for I Feel Love performed by Donna Summer.\nFollow Donna Summer: \n\nInstagram: https://www.instagram.com/officialdonnasummer\nFacebook: https://www.facebook.com/DonnaSummer\nWebsite: https://donnasummer.com\n\n#DonnaSummer #IFeelLove",
-        "bunnyVideoId": "yEbaeLv-aOo",
-        "bunnyVideoUrl": "https://virotv.b-cdn.net/tbtmusic/yEbaeLv-aOo.mp4",
-        "artist": "Donna Summer (prod. Giorgio Moroder)"
       }
     ]
   },

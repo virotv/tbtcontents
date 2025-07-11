@@ -53,7 +53,7 @@
       {
         "title": "Bohemian Rhapsody",
         "artist": "Queen",
-        "yId": "fJ9rUzIMcZQ"
+        "yId": "yk3prd8GER4"
       },
       {
         "title": "Hotel California",
@@ -63,7 +63,7 @@
       {
         "title": "Sweet Child o\u2019 Mine",
         "artist": "Guns N\u2019 Roses",
-        "yId": "D2gWc5Sw75w"
+        "yId": "N9GqZlyCMdU"
       },
       {
         "title": "Back in Black",
@@ -94,27 +94,27 @@
       {
         "title": "Juicy",
         "artist": "The Notorious B.I.G.",
-        "yId": ""
+        "yId": "_JZom_gVfuw"
       },
       {
         "title": "Lose Yourself",
         "artist": "Eminem",
-        "yId": ""
+        "yId": "xFYQQPAOz7Y"
       },
       {
         "title": "God's Plan",
         "artist": "Drake",
-        "yId": ""
+        "yId": "9TincgwjtmA"
       },
       {
         "title": "Gangsta's Paradise",
         "artist": "Coolio ft. L.V.",
-        "yId": ""
+        "yId": "fPO76Jlnz6c"
       },
       {
         "title": "The Message",
         "artist": "Grandmaster Flash & The Furious Five",
-        "yId": ""
+        "yId": "PobrSpMwKk4"
       }
     ]
   },
@@ -125,27 +125,27 @@
       {
         "title": "I Feel Love",
         "artist": "Donna Summer (prod. Giorgio Moroder)",
-        "yId": ""
+        "yId": "GNRPUMQiJdA"
       },
       {
         "title": "Blue Monday",
         "artist": "New Order",
-        "yId": ""
+        "yId": "GjYJ_Vagi7o"
       },
       {
         "title": "One More Time",
         "artist": "Daft Punk",
-        "yId": ""
+        "yId": "t8zD5t99ERY"
       },
       {
         "title": "Around the World",
         "artist": "Daft Punk",
-        "yId": ""
+        "yId": "MZ45npqO21Q"
       },
       {
         "title": "Pump Up the Jam",
         "artist": "Technotronic",
-        "yId": ""
+        "yId": "uqCo3fr8-OM"
       }
     ]
   },
@@ -153,30 +153,70 @@
     "name": "Classical",
     "id": "classical",
     "videos": [
+       {
+        "title": "Nearer, My God, to Thee",
+        "artist": "André Rieu",
+        "yId": "v1mQT1u_45I"
+      },
+       {
+        "title": "O Fortuna",
+        "artist": "André Rieu",
+        "yId": "EJC-_j3SnXk"
+      },
+       {
+        "title": "Game of Thrones - Live at Sydney Opera House",
+        "artist": "2CELLOS",
+        "yId": "mmCnQDUSO4I"
+      },
+       {
+        "title": "Game of Thrones - Suite & Rains of Castamere",
+        "artist": "The Danish National Symphony Orchestra",
+        "yId": "3pCGU3bIPEc"
+      },
+       {
+        "title": "Waltz No. 2",
+        "artist": "Dmitri Shostakovich",
+        "yId": "mmCnQDUSO4I"
+      },
+       {
+        "title": "Canon in D",
+        "artist": "Cello & Piano",
+        "yId": "Ptk_1Dc2iPY"
+      },
+       {
+        "title": "Spring Waltz",
+        "artist": "Chopin",
+        "yId": "EFJ7kDva7JE"
+      },
+       {
+        "title": "Nocturne op.9 No.2",
+        "artist": "Chopin",
+        "yId": "9E6b3swbnWg"
+      },
       {
         "title": "Moonlight Sonata",
         "artist": "Ludwig\u202fvan\u202fBeethoven",
-        "yId": ""
+        "yId": "4Tr0otuiQuU"
       },
       {
         "title": "Symphony No. 5",
         "artist": "Ludwig\u202fvan\u202fBeethoven",
-        "yId": ""
+        "yId": "n3EiRynr1Us"
       },
       {
         "title": "Symphony No. 9 (Ode to Joy)",
         "artist": "Ludwig\u202fvan\u202fBeethoven",
-        "yId": ""
+        "yId": "uooe16ILaPo"
       },
       {
         "title": "F\u00fcr Elise",
         "artist": "Ludwig\u202fvan\u202fBeethoven",
-        "yId": ""
+        "yId": "e4d0LOuP4Uw"
       },
       {
         "title": "Toccata and Fugue in D minor, BWV\u202f565",
         "artist": "Johann\u202fSebastian\u202fBach",
-        "yId": ""
+        "yId": "ho9rZjlsyYY"
       }
     ]
   },
@@ -184,6 +224,31 @@
     "name": "Jazz",
     "id": "jazz",
     "videos": [
+      {
+        "title": "Feel like making Love",
+        "artist": "Bob James Quartet",
+        "yId": "gFwhlGTYYQ4"
+      },
+      {
+        "title": "Take Five",
+        "artist": "Dave Brubeck Feat Carmen McRae",
+        "yId": "tT9Eh8wNMkw"
+      },
+      {
+        "title": "Just The Two Of Us",
+        "artist": "Bill Withers",
+        "yId": "VoEsEC2CLgE"
+      },
+      {
+        "title": "Fly Me To The Moon",
+        "artist": "Frank Sinatra",
+        "yId": "Cd_THG241GA"
+      },
+      {
+        "title": "Feeling Good",
+        "artist": "Michael Bublé",
+        "yId": "Edwsf-8F3sI"
+      },
       {
         "title": "So What",
         "artist": "Miles Davis",
@@ -198,23 +263,23 @@
       {
         "title": "Round Midnight",
         "artist": "Thelonious Monk",
-        "yId": ""
+        "yId": "-yg7aZpIXRI"
       },
       
       {
         "title": "A Love Supreme",
         "artist": "John Coltrane",
-        "yId": ""
+        "yId": "vMCHDC2Lurk"
       },
       {
         "title": "The Sky is Crying",
         "artist": "Gary B.B. Coleman",
-        "yId": ""
+        "yId": "71Gt46aX9Z4"
       },
       {
         "title": "What a Wonderful World",
         "artist": "Louis Armstrong",
-        "yId": ""
+        "yId": "1Z0Y7hY6jSY"
       }
     ]
   },
@@ -223,29 +288,59 @@
     "id": "country",
     "videos": [
       {
+        "title": "In Hell I'll Be In Good Company",
+        "artist": "The Dead South",
+        "yId": "B9FzVhw8_bY"
+      },
+      {
+        "title": "Beautiful Crazy",
+        "artist": "Luke Combs",
+        "yId": "Na0StAOUbg0"
+      },
+      {
+        "title": "When It Rains It Pours",
+        "artist": "Luke Combs",
+        "yId": "w6ils8FTq8c"
+      },
+      {
+        "title": "Heaven",
+        "artist": "Kane Brown",
+        "yId": "YsgGvdLJEhk"
+      },
+      {
+        "title": "In Case You Didn't Know",
+        "artist": "Brett Young",
+        "yId": "_j5dQshrD5Y"
+      },
+      {
+        "title": "Tennessee Whiskey",
+        "artist": "Chris Stapleton",
+        "yId": "_j5dQshrD5Y"
+      },
+      {
         "title": "Ring of Fire",
         "artist": "Johnny Cash",
-        "yId": ""
+        "yId": "1WaV2x8GXj0"
       },
       {
         "title": "Jolene",
         "artist": "Dolly Parton",
-        "yId": ""
+        "yId": "irnTlxdJghM"
       },
       {
         "title": "On the Road Again",
         "artist": "Willie Nelson",
-        "yId": ""
+        "yId": "M6Ggp3TJjuE"
       },
       {
         "title": "I Will Always Love You",
         "artist": "Dolly Parton",
-        "yId": ""
+        "yId": "i1X1bWQyG5I"
       },
       {
         "title": "Stand by Your Man",
         "artist": "Tammy Wynette",
-        "yId": ""
+        "yId": "AM-b8P1yj9w"
       }
     ]
   },
