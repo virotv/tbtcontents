@@ -339,6 +339,19 @@
     "id": "jazz",
     "videos": [
       {
+        "ytVideoId": "tT9Eh8wNMkw",
+        "title": "Take Five",
+        "views": 42293782,
+        "ytVideoUrl": "https://www.youtube.com/watch?v=tT9Eh8wNMkw",
+        "thumbnail": "https://i.ytimg.com/vi/tT9Eh8wNMkw/hqdefault.jpg",
+        "published_at": "2012-01-22T10:40:43Z",
+        "duration": 445,
+        "description": "Live in Belgium 1964\n\nPaul Desmond (alto sax), Joe Morello (drums), Eugene Wright (bass) and Dave Brubeck (piano)",
+        "bunnyVideoId": "tT9Eh8wNMkw",
+        "bunnyVideoUrl": "https://virotv.b-cdn.net/tbtmusic/tT9Eh8wNMkw.mp4",
+        "artist": "Dave Brubeck Feat Carmen McRae"
+      },
+      {
         "ytVideoId": "gFwhlGTYYQ4",
         "title": "Feel like making Love",
         "views": 20713235,
