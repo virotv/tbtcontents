@@ -339,6 +339,19 @@
     "id": "jazz",
     "videos": [
       {
+        "ytVideoId": "xUtBiHOx8qI",
+        "title": "The Sky is Crying",
+        "views": 3197,
+        "ytVideoUrl": "https://www.youtube.com/watch?v=xUtBiHOx8qI",
+        "thumbnail": "https://i.ytimg.com/vi/xUtBiHOx8qI/hqdefault.jpg",
+        "published_at": "2021-05-04T02:04:51Z",
+        "duration": 548,
+        "description": "https://youtu.be/eBlfrTGjujk\nGary B.B. singing The Sky's Crying",
+        "bunnyVideoId": "xUtBiHOx8qI",
+        "bunnyVideoUrl": "https://virotv.b-cdn.net/tbtmusic/xUtBiHOx8qI.mp4",
+        "artist": "Gary B.B. Coleman"
+      },
+      {
         "ytVideoId": "vMCHDC2Lurk",
         "title": "A Love Supreme",
         "views": 1027280,
