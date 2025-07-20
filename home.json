@@ -4,6 +4,19 @@
     "id": "pop",
     "videos": [
       {
+        "ytVideoId": "ziN7Y1M1v8s",
+        "title": "Uptown Funk",
+        "views": 90189177,
+        "ytVideoUrl": "https://www.youtube.com/watch?v=ziN7Y1M1v8s",
+        "thumbnail": "https://i.ytimg.com/vi/ziN7Y1M1v8s/hqdefault.jpg",
+        "published_at": "2014-11-10T17:32:07Z",
+        "duration": 272,
+        "description": "Buy Uptown Funk on iTunes: http://smarturl.it/UptownFunk?IQid=yt\n\n\nCopyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for \"fair use\" for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use.\n\n(Lyrical Video for Uptown Funk by Mark Ronson featuring Bruno Mars, I own nothing)",
+        "bunnyVideoId": "ziN7Y1M1v8s",
+        "bunnyVideoUrl": "https://virotv.b-cdn.net/tbtmusic/ziN7Y1M1v8s.mp4",
+        "artist": "Mark Ronson ft. Bruno Mars"
+      },
+      {
         "ytVideoId": "4jh2H5qFb44",
         "title": "Shape of You",
         "views": 2429941,
