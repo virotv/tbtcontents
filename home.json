@@ -231,6 +231,19 @@
     "id": "rock",
     "videos": [
       {
+        "ytVideoId": "EHg6W-OvMNg",
+        "title": "Something Just Like This",
+        "views": 150119,
+        "ytVideoUrl": "https://www.youtube.com/watch?v=EHg6W-OvMNg",
+        "thumbnail": "https://i.ytimg.com/vi/EHg6W-OvMNg/hqdefault.jpg",
+        "published_at": "2022-02-10T02:15:28Z",
+        "duration": 241,
+        "description": "Credit goes to \"Stupid Lyrics\" for the video\nThe rest of the credit goes to \"The Chainsmokers\" for the song\nShout out to \"Stupid Lyrics\"!",
+        "bunnyVideoId": "EHg6W-OvMNg",
+        "bunnyVideoUrl": "https://virotv.b-cdn.net/tbtmusic/EHg6W-OvMNg.mp4",
+        "artist": "Coldplay"
+      },
+      {
         "ytVideoId": "bJ3EWD6GLck",
         "title": "Stressed Out",
         "views": 1122550,
