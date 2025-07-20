@@ -510,6 +510,19 @@
     "id": "hip_hop_rap",
     "videos": [
       {
+        "ytVideoId": "e2BNiR5GtcQ",
+        "title": "Love the Way You Lie",
+        "views": 80731492,
+        "ytVideoUrl": "https://www.youtube.com/watch?v=e2BNiR5GtcQ",
+        "thumbnail": "https://i.ytimg.com/vi/e2BNiR5GtcQ/hqdefault.jpg",
+        "published_at": "2010-11-27T10:22:15Z",
+        "duration": 565,
+        "description": "\"Love The Way You Lie\" - part one and two. \nDownload the MP3: http://smarturl.it/lovethewayulie \nDownload part two! http://smarturl.it/wayyoulie2",
+        "bunnyVideoId": "e2BNiR5GtcQ",
+        "bunnyVideoUrl": "https://virotv.b-cdn.net/tbtmusic/e2BNiR5GtcQ.mp4",
+        "artist": "Eminem ft. Rihanna"
+      },
+      {
         "ytVideoId": "fPO76Jlnz6c",
         "title": "Gangsta's Paradise",
         "views": 1803649612,
