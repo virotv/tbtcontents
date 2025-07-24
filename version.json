@@ -1,38 +1,14 @@
 {
   "version": "1.0.1",
   "build_number": "2",
-  "release_date": "2024-12-19",
-  "minimum_supported_version": "1.0.0",
-  "force_update": false,
-  "download_url": "https://virotv.github.io/home/assets/virotv.apk",
-  "file_size": "25000000",
-  "release_notes": "🎵 What's New in Top TBT Music v1.0.1:\n\n• 🚀 Improved audio streaming performance\n• 🎨 Enhanced user interface with smoother animations\n• 🔧 Fixed playback issues on some devices\n• 📱 Better compatibility with Android 14\n• 🎧 Optimized background playback\n• 💾 Reduced app storage usage\n• 🐛 Various bug fixes and stability improvements\n\nEnjoy your throwback music experience! 🎶",
-  "changelog": [
-    {
-      "version": "1.0.1",
-      "changes": [
-        "Improved audio streaming performance",
-        "Enhanced user interface",
-        "Fixed playback issues",
-        "Better Android 14 compatibility",
-        "Optimized background playback"
-      ]
-    },
-    {
-      "version": "1.0.0",
-      "changes": [
-        "Initial release",
-        "Music streaming functionality",
-        "Playlist management",
-        "Favorites system"
-      ]
-    }
+  "release_notes": [
+    "🚀 Improved audio streaming performance",
+    "🎨 Enhanced user interface with smoother animations", 
+    "🔧 Fixed playback issues on some devices",
+    "📱 Better compatibility with Android 14",
+    "🎧 Optimized background playback",
+    "💾 Reduced app storage usage",
+    "🐛 Various bug fixes and stability improvements"
   ],
-  "metadata": {
-    "app_name": "Top TBT Music",
-    "package_name": "com.toptbt.music.toptbtmusicmobi",
-    "developer": "Top TBT Music Team",
-    "support_email": "support@toptbtmusic.com",
-    "website": "https://virotv.github.io/tbtmusic.web"
-  }
+  "download_url": "https://virotv.github.io/home/assets/virotv.apk"
 }
