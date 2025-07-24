@@ -1,6 +1,6 @@
 {
   "version": "1.0.1",
-  "build_number": "2",
+  "build_number": 2,
   "release_notes": [
     "🚀 Improved audio streaming performance",
     "🎨 Enhanced user interface with smoother animations", 
